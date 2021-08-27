@@ -1,7 +1,7 @@
 <!---
-AndrejKiri/AndrejKiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Bio: UX researcher focusing on Developer Experience – ♾ DevOps, ⚙️ Infrastructure, 🔮 Observability | ex- @GitLab
 --->
+
 ## 👋 Hi, my name is Andrej and I am a UX researcher. 
 
 I talk to users about their experience with digital products and transfer their feedback to the product teams and leaders so they can deliver better work. At my work I also do a fair amount of digging into numbers from surveys, analytics, reviews.
