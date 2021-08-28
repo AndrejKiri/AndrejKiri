@@ -4,10 +4,10 @@ Bio: UX researcher focusing on Developer Experience – ♾ DevOps, ⚙️ Infra
 
 ## 👋 Hi, my name is Andrej and I am a UX researcher. 
 
-I talk to users about their experience with digital products and transfer their feedback to the product teams and leaders so they can deliver better work. At my work I also do a fair amount of digging into numbers from surveys, analytics, reviews.
+I talk to users about their experience with digital products and transfer their feedback to the product teams and leaders so they can deliver better work. I also do a fair amount of digging into numbers from surveys, analytics, and reviews.
 
 <details>
-  <summary>About me and some trivia</summary>
+  <summary>Read more</summary>
 
 ### About me
 - I have a background in Computer Science and Sociology. This pretty obscure combination turned out to be extremely useful for my work. 
