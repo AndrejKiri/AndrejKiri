@@ -4,15 +4,18 @@ Bio: UX researcher focusing on Developer Experience – ♾ DevOps, ⚙️ Infra
 
 ## 👋 Hi, my name is Andrej and I am a UX researcher. 
 
-I talk to users about their experience with digital products and transfer their feedback to the product teams and leaders so they can deliver better work. I also do a fair amount of digging into numbers from surveys, analytics, and reviews.
+I talk to users about their experience with digital products and pass their feedback along to the product teams so they can improve it. 
+
+<!-- I do interviews, surveys, usability tests and many more.  -->
 
 <details>
   <summary>Read more</summary>
 
 ### About me
-- I have a background in Computer Science and Sociology. This pretty obscure combination turned out to be extremely useful for my work. 
-- I started my career in 2014 in a consultancy, then moved to a corporate and later settled in the startup world. It has been more than 7 years now since I started doing UX research and I still love it. Currently, I am excited about Developer Experience, especially IT operations. Check more details on my [LinkedIn](https://www.linkedin.com/in/andrej-kiripolsk%C3%BD-22042843/).
-- I grew up in southern Slovakia. Now I live in the Czech Republic. With my wife, we have 2 little kids and an evil cat. When the kids fall asleep in the evening, I play Dota 2. Recently I realized that I love gardening.
+- My background is in Computer Science and Sociology. This pretty obscure combination turned out to be extremely useful at my work. 
+- I started my career in 2014 in a consultancy, then moved to a big corporate and later settled in the startup world. It has been more than 7 years now since I started doing UX research and I still love it. Currently, I am excited about Developer Experience, especially IT operations. More details on my [LinkedIn](https://www.linkedin.com/in/andrej-kiripolsk%C3%BD-22042843/).
+- I grew up in southern Slovakia. Now I live in the Czech Republic. With my wife, we have two little kids and an evil cat. 
+- When the kids fall asleep, I play Dota 2. Recently I realized that I love gardening.
 
 ### Trivia
 - In MBTI personality type I score between Advocate [INFJ-T](https://www.16personalities.com/infj-personality) and Architect [INTJ-T](https://www.16personalities.com/intj-personality) types. I can relate to both.
