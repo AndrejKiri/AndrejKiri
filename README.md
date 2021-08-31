@@ -1,5 +1,5 @@
 <!---
-Bio: UX researcher focusing on Developer Experience – ♾ DevOps, ⚙️ Infrastructure, 🔮 Observability | ex-@GitLab
+Bio: UX researcher excited about Developer Experience – ♾ DevOps, ⚙️ Infrastructure, 🔮 Observability | ex-@GitLab
 --->
 
 ## 👋 Hi, my name is Andrej and I am a UX researcher. 
