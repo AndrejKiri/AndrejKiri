@@ -1,0 +1,98 @@
+## Work Experience
+
+### **UX Researcher** at GitLab Inc.
+*01/01/2020 – 07/06/2021* (1 yr 6 mos) | Remote | [gitlab.com](https://gitlab.com)
+
+I supported 4-7 product teams working on the IT operations-related functionality of GitLab – application performance monitoring, incident management, and infrastructure configuration among others. 
+
+My main responsibility was mentoring the teams on topics related to design decision-making, research design, and research process.
+
+Also I was designing and conducting strategic research studies tackling high-impact product areas and studies that required high expertise, like the Kano model, comparative navigation evaluation, or benchmarking surveys. 
+
+<details>
+	<summary><i>About GitLab</i></summary>
+	GitLab is a web-based DevOps lifecycle platform used by more than 30 milion users. 
+	
+	The company is one of the biggest all-remote companies in the world with unique company culture. I worked there during its pre-IPO unicorn period.
+</details>
+
+    
+### **UX Researcher** at Kiwi.com
+*01/01/2018 – 31/12/2019* (2 yrs) | Brno, Czechia | [kiwi.com](https://kiwi.com)
+ 
+ I was responsible for research spanning the whole product lifecycle for 6 product groups. 
+ 
+ I was designing and conducting formative and summative research studies with B2C as well as B2B users. I led and mentored other UX researchers on both a per-project and long-term basis.
+ 
+ I significantly contributed to the improvement and systematization of the UX research efforts and participated in the recruitment of new team members.
+ 
+ <details>
+	<summary><i>About Kiwi.com</i></summary>
+	Kiwi.com's product is a travel search engine and OTA. The algorithm behind it creates efficient combinations of air and ground transport, ride-hailing that cannot be found anywhere else. 
+	
+	Kiwi.com is one of the most successful Czech startups with a turnover of more than €1.3Bn in 2019.
+</details>
+
+<!-- 
+Questions:
+What do you mean by "improvement and systematization of the UX research efforts"?
+-->
+ 
+### **UX Researcher** (Human Factors Scientist) at Honeywell Aerospace
+*01/07/2015 – 31/12/2017* (2 yrs 6 mos) | Brno, Czechia | [aerospace.honeywell.com](https://aerospace.honeywell.com/)
+
+I worked on R&D projects aimed at introducing modern technologies, primarily multimodal interaction, to the aircraft cockpit.
+
+I was responsible for designing and conducting research studies where I collected requirements from users and tested the usability of our prototypes. In addition to that, I collaborated on designing the prototypes as well. 
+
+On daily basis, I used advanced flight simulation equipment and worked with highly skilled subject matter experts, like pilots and ATC specialists.
+
+<details>
+	<summary><i>About Honeywell</i></summary>
+	Honeywell International Inc. is a giant multinational conglomerate producing everything from to shoes and ACs to cockpit systems and spacecraft parts.
+</details>
+
+    
+### UX Researcher at UsabilityLab
+*01/07/2014 – 15/06/2015* (11 mos) | Moscow, Russia | [usabilitylab.ru](https://usabilitylab.ru)
+
+I worked on projects for various clients from the telecom, banking, and retail industries. I prototyped and tested the usability of web, mobile, and ATM interfaces.
+
+<details>
+	<summary><i>About UsabilityLab</i></summary>
+	UsabilityLab LLC is one of the biggest and oldest usability consultancy firms in Russia. 
+</details>
+    
+
+## Education
+### Master's Degree in Software Engineering
+**at Faculty of Informatics, Masaryk University**
+
+*08/07/2015 – 30/06/2019* | Brno, Czechia | [www.fi.muni.cz](https://www.fi.muni.cz/admission/mgr/software-systems-and-services-management-eng.html)
+
+Program focused on modern trends in Software Engineering and IT management. Topic of my thesis was design theory.
+
+### Bachelor's Degree in Computer Science & Sociology
+**at Faculty of Informatics, Masaryk University**
+
+*08/07/2010 – 02/02/2015* | Brno, Czechia | [www.fi.muni.cz](https://is.muni.cz/obory/17463?fakulta=1433;lang=en)
+
+Interdisciplinary program combining core Computer Science curriculum with Sociology, especially research methodology. I wrote my thesis about a HCI experiment where I measured and compared efficiency of input using two types of virtual keyboards. 
+
+## Skills
+### Languages
+- *Mother tongue*: Slovak
+- *Other languages*: English, Russian, Czech
+
+### Digital
+- *Data analysis*: SPSS, Atlas.ti, Dovetail, UserTesting.com, FullStory, Lookback
+- *Prototyping*: Miro, Balsamiq
+- *Programing*: Python, HTML & CSS, SQL, Git
+- *Modeling*: BPMN, GOMS
+
+## Certifications
+### Design for Six Sigma - Green Belt
+A learning curriculum about principles and techniques of Lean and Toyota manufacturing, the predecessors of DevOps philosophy. Learning took several weeks and was concluded by a capstone project.
+
+### Become a Cloud Developer
+[LinkedIn Learning course](https://www.linkedin.com/learning/paths/become-a-cloud-developer) (10 hours) with a detailed introduction to cloud development and offering of the top vendors including Amazon AWS, Microsoft Azure, Google Cloud.
