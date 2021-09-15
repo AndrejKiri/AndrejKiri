@@ -1,5 +1,7 @@
 <!---
 Bio: UX researcher excited about Developer Experience – ♾ DevOps, ⚙️ Infrastructure, 🔮 Observability, 👐 Open-source | ex-@GitLab
+
+Short summary: UX researcher with 7 years of experience. Currently excited mainly about Developer Experience – ♾ DevOps, ⚙️ Infrastructure, 🔮 Observability, 👐 Open-source. Father of 2 kiddos, Dota 2 player. Based in Brno, Czech Republic.
 --->
 
 ## 👋 Hi, my name is Andrej and I am a UX researcher. 
