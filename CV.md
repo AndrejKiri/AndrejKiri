@@ -11,9 +11,7 @@ Also, I was designing and conducting strategic research studies tackling high-im
 
 <details>
 	<summary><i>About GitLab</i></summary>
-	GitLab is a web-based DevOps lifecycle platform used by more than 30 milion users. 
-	
-	The company is one of the biggest all-remote companies in the world with unique company culture. I worked there during its pre-IPO unicorn period.
+	GitLab is a web-based DevOps lifecycle platform used by more than 30 milion users. The company is one of the biggest all-remote companies in the world with unique company culture. I worked there during its pre-IPO unicorn period.
 </details>
 
     
@@ -28,9 +26,7 @@ Also, I was designing and conducting strategic research studies tackling high-im
  
  <details>
 	<summary><i>About Kiwi.com</i></summary>
-	Kiwi.com's product is a travel search engine and OTA. The algorithm behind it creates efficient combinations of air and ground transport, ride-hailing that cannot be found anywhere else. 
-	
-	Kiwi.com is one of the most successful Czech startups with a turnover of more than €1.3Bn in 2019.
+	Kiwi.com's product is a travel search engine and OTA. The algorithm behind it creates efficient combinations of air and ground transport, ride-hailing that cannot be found anywhere else. Kiwi.com is one of the most successful Czech startups with a turnover of more than €1.3Bn in 2019.
 </details>
 
 <!-- 
