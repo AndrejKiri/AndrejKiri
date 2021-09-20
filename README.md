@@ -24,6 +24,6 @@ I talk to users about their experience with digital products and pass their feed
   - My Dota 2 MMR is 2k (means "rather bad").
 
   ### Contact
-  Want to get in touch? Let's connect on [LinkedIn](https://www.linkedin.com/in/andrej-kiripolsk%C3%BD-22042843/)
+  Want to get in touch? Let's connect on [LinkedIn](https://www.linkedin.com/in/andrej-kiripolsk%C3%BD-22042843/).
   
 </details>
