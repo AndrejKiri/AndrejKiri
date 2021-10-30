@@ -23,5 +23,7 @@ I talk to users about their experience with digital products and pass their feed
 
   ### Contact
   Want to get in touch? Let's connect on [LinkedIn](https://www.linkedin.com/in/andrej-kiripolsk%C3%BD-22042843/)
+
+*I drew inspiration for writing this personal README from similar documents of [Kenny Johnston](https://gitlab.com/kencjohnston/README), [Kevin Chu](https://gitlab.com/kbychu/README), [Scott Williamson](https://about.gitlab.com/handbook/product/readme/scott-williamson.html), and other folks at GitLab.*
   
 </details>
