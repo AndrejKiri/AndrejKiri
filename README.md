@@ -22,8 +22,8 @@ I talk to users about their experience with digital products and pass their feed
 
 ### Trivia
 - In MBTI personality type I score between Advocate [INFJ-T](https://www.16personalities.com/infj-personality) and Architect [INTJ-T](https://www.16personalities.com/intj-personality) types. I can relate to both.
-- I can blind type in both latin and cyrilic.
-- My Dota 2 MMR is 2k (means "rather bad").
+- I am fluent in English, Russian, Czech and Slovak languages and I can blind type in both latin and cyrilic keyboard.
+- I play Dota 2. Since 2014, I spent more than 3500 hours on it and even though my matchmaking rating oscilates around 2k (means "rather bad"), I regret nothing.
 
 ### Contact
 Want to get in touch? Let's connect on [LinkedIn](https://www.linkedin.com/in/andrej-kiripolsk%C3%BD-22042843/)
