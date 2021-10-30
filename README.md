@@ -21,7 +21,7 @@ I talk to users about their experience with digital products and pass their feed
   ### Working with me
   - By my nature, I strive to deliver high-quality work and I expect others to aspire to it as well. But, this is a double-edged sword. Not to fall into the trap of perfectionism, I work hard to scope my work appropriately and iterate.
   - Sometimes I need time to absorb new information and form an opinion. I often wait to speak in group settings until my thoughts are clear and I believe I can contribute positively to the discussion. Because of this, I prefer async work and I appreciate it when I get materials for meetings in advance.
-  - I gravitate towards transparency and vulnerability both in my work and personal life. I believe being open about one's mistakes, doubts and fears is better than building a facade of an ideal person because it allows me and others to learn and grow faster. I appreciate when other people do so as well and I will always be understanding and non-judgemental in such situations.
+  - I gravitate towards transparency and vulnerability both in my work and personal life. I believe being open about one's mistakes, doubts and fears is better than building a facade of an ideal person because it allows me and others to learn and grow faster.
 
   ### Trivia
   - In MBTI personality type I score between Advocate [INFJ-T](https://www.16personalities.com/infj-personality) and Architect [INTJ-T](https://www.16personalities.com/intj-personality) types. I can relate to both.
