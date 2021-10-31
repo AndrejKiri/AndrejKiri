@@ -6,7 +6,7 @@ Short summary: UX researcher with 7 years of experience. Currently excited mainl
 
 ## 👋 Hi, my name is Andrej and I am a UX researcher. 
 
-I talk to users about their experience with digital products and pass their feedback along to the product teams so they can improve it.
+I talk to users about their experience with digital products and pass their feedback along to the product teams so they can improve the products.
 
 <!-- I do interviews, surveys, usability tests and many more.  -->
 
@@ -21,8 +21,8 @@ I talk to users about their experience with digital products and pass their feed
 - I gravitate towards transparency and vulnerability both in my work and personal life. I believe being open about one's mistakes, doubts and fears is better than building a facade of an ideal person because it allows me and others to learn and grow faster.
 
 ### Trivia
-- In MBTI personality type I score between Advocate [INFJ-T](https://www.16personalities.com/infj-personality) and Architect [INTJ-T](https://www.16personalities.com/intj-personality) types. I can relate to both.
-- I am fluent in English, Russian, Czech and Slovak languages and I can blind type in both latin and cyrilic keyboard.
+- In MBTI personality typology I score between Advocate [INFJ-T](https://www.16personalities.com/infj-personality) and Architect [INTJ-T](https://www.16personalities.com/intj-personality) types. I can relate to both.
+- I am fluent in Slovak (my native language), English, Russian, and Czech languages and I can blind type using both latin and cyrilic keyboard layouts.
 - I play Dota 2. Since 2014, I spent more than 3500 hours on it and even though my matchmaking rating oscilates around 2k (means "rather bad"), I regret nothing.
 
 ### Contact
