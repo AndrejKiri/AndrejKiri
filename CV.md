@@ -7,7 +7,7 @@ As the first UX researcher, I was primarily responsible for designing and conduc
 
 <details>
 	<summary><i>About Smartlook</i></summary>
-	Smartlook is an early stage technology startup developing a digital experience monitoring tool. The core of the product is an advanced session replays engine enhanced with various analytical and monitoring functionalities. In late 2020, Smartlook secured a €3M investment in series A and aims for rapid growth and expansion in upcoming years. 
+	Smartlook is an early-stage technology startup developing a digital experience monitoring tool. The core of the product is an advanced session replays engine enhanced with various analytical and monitoring functionalities. In late 2020, Smartlook secured a €3M investment in series A and aims for rapid growth and expansion in upcoming years. 
 </details>
 
 
