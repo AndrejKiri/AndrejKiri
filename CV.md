@@ -1,7 +1,7 @@
 ## Work Experience
 
-### **UX Researcher** (contract) at Smartlook
-*01/11/2021 – Present* | Brno, Czechia/Remote | [smartlook.com](smartlook.com)
+### **UX Researcher** at Smartlook
+*01/11/2021 – Present* | Brno, Czechia/Remote | [smartlook.com](smartlook.com) | Contract
 
 As the first UX researcher, I was primarily responsible for designing and conducting foundational research to inform the strategic direction of the product. I was helping and advising UX designers, PMs, Marketing and Sales specialists with various tasks related to understanding the users of our product. I was building up the research operations from scratch with a focus on transparency, efficient, and scalability of research practice. 
 
