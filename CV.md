@@ -81,7 +81,7 @@ An interdisciplinary program where the core Computer Science curriculum was comb
 - *Other languages*: English, Russian, Czech
 
 ### Digital
-- *Data analysis*: SPSS, Atlas.ti, Dovetail, UserTesting.com, FullStory, Lookback
+- *Data analysis*: SPSS, Atlas.ti, Dovetail, UserTesting.com, FullStory, Lookback, Cogulator
 - *Prototyping*: Miro, Balsamiq
 - *Programing*: Python, HTML & CSS, SQL, Git
 - *Modeling*: BPMN, GOMS
