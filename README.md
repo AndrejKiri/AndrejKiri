@@ -1,4 +1,7 @@
 <!---
+TODO
+- [ ] Add 'SaaS' and/or 'B2B'
+
 Bio: Experienced UX researcher excited about Developer Experience – ♾ DevOps, ⚙️ Infrastructure, 🔮 Observability, 👐 Open-source | ex-@GitLab
 
 Short summary: UX researcher with 7 years of experience. Currently excited mainly about Developer Experience – ♾ DevOps, ⚙️ Infrastructure, 🔮 Observability, 👐 Open-source. Father of 2 kiddos, Dota 2 player. Based in Brno, Czech Republic.
