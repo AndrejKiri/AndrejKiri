@@ -1,7 +1,7 @@
 ## Work Experience
 
 ### **Senior UX Researcher** at Grafana Labs
-*13/06/2022 – Present* | Brno, Czechia/Remote | [smartlook.com](smartlook.com) | Contract
+*13/06/2022 – Present* | Brno, Czechia/Remote | [grafana.com](grafana.com)
 
 
 ### **UX Researcher** at Smartlook
