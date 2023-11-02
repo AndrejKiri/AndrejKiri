@@ -15,7 +15,7 @@ I talk to users about their experience with digital products and pass their feed
 
 ### About me
 - My background is in Computer Science and Sociology. This rather unusual combination turned out to be extremely useful for me. On one hand, it gave me solid understanding of information technologies and modern software engineering. On the other hand, I spent a whole lot of time learning and practicing various methodologies used for studying people.
-- I started my career in 2014 in a consultancy, then moved to a big corporate, and later settled in the startup world. It has been more than 7 years since I started doing UX research and I still love it. Currently, I am excited about Developer Experience, especially IT operations. More details in my [CV](https://github.com/AndrejKiri/AndrejKiri/blob/ccfa33fc4baef82f32d1fd9278aa9ea44329faa0/CV.md).
+- I started my career in 2014 in a consultancy, then moved to a big corporate, and later settled in the startup world. It has been more than 7 years since I started doing UX research and I still love it. Currently, I am excited about Developer Experience, especially IT operations. More details in my [CV](https://github.com/AndrejKiri/AndrejKiri/blob/main/CV.md).
 - I grew up in southern Slovakia. Now I live in the Czech Republic (CET/CEST time). With my wife, we have two little kids. When the kids fall asleep, I play Dota 2.
 
 ### Working with me
