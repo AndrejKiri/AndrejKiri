@@ -26,10 +26,10 @@ I talk to users about their experience with digital products and pass their feed
 
 ### Trivia
 - In MBTI personality typology I score between Advocate [INFJ-T](https://www.16personalities.com/infj-personality) and Architect [INTJ-T](https://www.16personalities.com/intj-personality) types. I can relate to both.
-- My native language is Slovak and I am fluent also in English, Russian, and Czech languages.
+- My native language is Slovak and I am fluent also in English, Russian, and Czech languages. I learned Spanish and German as well. 
 - I play Dota 2. Since 2014, I spent more than 3800 hours on it and even though my matchmaking rating oscilates around 2k (means "rather bad"), I regret nothing.
 
 ### Contact
-Want to get in touch? Let's connect on [LinkedIn](https://www.linkedin.com/in/andrej-kiripolsk%C3%BD-22042843/)
+Want to get in touch? Let's connect on [LinkedIn](https://www.linkedin.com/in/andrej-kiripolsk%C3%BD-22042843/) (please, share something about yourself in the invitation request).
 
 *I drew inspiration for writing this personal README from similar documents of [Kenny Johnston](https://gitlab.com/kencjohnston/README), [Kevin Chu](https://gitlab.com/kbychu/README), [Scott Williamson](https://about.gitlab.com/handbook/product/readme/scott-williamson.html), and other folks at GitLab.*
