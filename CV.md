@@ -3,6 +3,8 @@
 ### **Senior UX Researcher** at Grafana Labs
 *13/06/2022 – Present* | Brno, Czechia/Remote | [grafana.com](grafana.com)
 
+<!-- Hands-on work: Framework for usability benchmarking at scale; ResearchOps: tools procurement, research panel, documentation -->
+
 
 ### **UX Researcher** at Smartlook
 *01/11/2021 – 31/05/2022* | Brno, Czechia/Remote | [smartlook.com](smartlook.com)
