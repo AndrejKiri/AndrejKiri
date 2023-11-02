@@ -1,13 +1,13 @@
 ## Work Experience
 
 ### **Senior UX Researcher** at Grafana Labs
-*13/06/2022 – Present* | Brno, Czechia/Remote | [grafana.com](grafana.com)
+*13/06/2022 – Present* | Remote | [grafana.com](grafana.com)
 
 <!-- Hands-on work: Framework for usability benchmarking at scale; ResearchOps: tools procurement, research panel, documentation -->
 
 
 ### **UX Researcher** at Smartlook
-*01/11/2021 – 31/05/2022* | Brno, Czechia/Remote | [smartlook.com](smartlook.com)
+*01/11/2021 – 31/05/2022* | Brno, Czechia | [smartlook.com](smartlook.com)
 
 As the first UX researcher, I was primarily responsible for designing and conducting foundational research to inform the strategic direction of the product. I was helping and advising UX designers, PMs, Marketing, and Sales specialists with various tasks related to understanding the users of our product. I was building up the research operations from scratch with a focus on transparency, efficient, and scalability of research practice. 
 
