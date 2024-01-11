@@ -2,7 +2,7 @@
 TODO
 - [ ] Add 'SaaS' and/or 'B2B'
 
-Bio: Sr. UX Researcher @ Grafana Labs, ex-GitLab | Excited about Developer Experience – ♾ DevOps, ⚙️ Infrastructure, 🔮 Observability, 👐 Open-source
+Bio: Sr. UX Researcher @ Grafana Labs, ex-GitLab | Excited about 🧑‍💻 Developer Experience, 🔮 Observability, 👐 Open-source
 
 Short summary: UX researcher with 7 years of experience. Currently excited mainly about Developer Experience – ♾ DevOps, ⚙️ Infrastructure, 🔮 Observability, 👐 Open-source. Father of 2 kiddos, Dota 2 player. Based in Brno, Czech Republic.
 --->
