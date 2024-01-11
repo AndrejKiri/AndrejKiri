@@ -4,7 +4,7 @@ TODO
 
 Bio: Sr. UX Researcher @ Grafana Labs, ex-GitLab | Excited about 🧑‍💻 Developer Experience, 🔮 Observability, 👐 Open-source
 
-Short summary: UX researcher with 7 years of experience. Currently excited mainly about Developer Experience – ♾ DevOps, ⚙️ Infrastructure, 🔮 Observability, 👐 Open-source. Father of 2 kiddos, Dota 2 player. Based in Brno, Czech Republic.
+Short summary: UX researcher with 9+ years of experience. Currently excited mainly about Developer Experience – ♾ DevOps, ⚙️ Infrastructure, 🔮 Observability, 👐 Open-source. Father of 2 kiddos, Dota 2 player. Based in Brno, Czech Republic.
 --->
 
 ## 👋 Hi, my name is Andrej and I am a Sr. UX researcher @ Grafana Labs. 
