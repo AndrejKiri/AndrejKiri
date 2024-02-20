@@ -3,6 +3,7 @@ TODO
 - [ ] Add 'SaaS' and/or 'B2B'
 
 Bio: Sr. UX Researcher @ Grafana Labs, ex-GitLab | Excited about 🧑‍💻 Developer Experience, 🔮 Observability, 👐 Open-source
+Bio 2: Andrej is a Senior UX researcher at Grafana Labs and is based in Brno, Czech Republic. At work, he is excited about all things DevOps, observability, and open-source. In his free time, he plays Dota 2 and brings up 2 kiddos (…or they bring up him).
 
 Short summary: UX researcher with 9+ years of experience. Currently excited mainly about Developer Experience – ♾ DevOps, ⚙️ Infrastructure, 🔮 Observability, 👐 Open-source. Father of 2 kiddos, Dota 2 player. Based in Brno, Czech Republic.
 --->
