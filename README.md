@@ -8,7 +8,7 @@ Bio 2: Andrej is a Senior UX researcher at Grafana Labs and is based in Brno, Cz
 Short summary: UX researcher with 9+ years of experience. Currently excited mainly about Developer Experience – ♾ DevOps, ⚙️ Infrastructure, 🔮 Observability, 👐 Open-source. Father of 2 kiddos, Dota 2 player. Based in Brno, Czech Republic.
 --->
 
-## 👋 Hi, my name is Andrej and I am a Sr. UX researcher @ Grafana Labs. 
+## 👋 Hi, my name is Andrej and I am a Staff UX researcher @ Grafana Labs. 
 
 I talk to users about their experience with digital products and pass their feedback along to the product teams so they can improve the products.
 
