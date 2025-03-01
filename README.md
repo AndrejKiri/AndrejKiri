@@ -21,8 +21,8 @@ Bio 3: UX researcher with 10+ years of experience. Currently excited mainly abou
 - I take advantage of the flexibility that comes with working in a distributed, fully-remote company. Sometimes I start working a little later or go for a walk with my kids after lunch. Sometimes I work during evenings or weekends. I like it this way. To make sure this flexibility doesn't harm my work or personal life, I keep detailed track of my time in [Obsidian](https://obsidian.md/).
 
 ### Trivia
+- My native language is Slovak and I am fluent also in English, Russian, and Czech languages. I learned Spanish and German as well. I make mistakes in all of them. 
 - In MBTI personality typology I score between Advocate [INFJ-T](https://www.16personalities.com/infj-personality) and Architect [INTJ-T](https://www.16personalities.com/intj-personality) types. I can relate to both.
-- My native language is Slovak and I am fluent also in English, Russian, and Czech languages. I learned Spanish and German as well. 
 - I play Dota 2. Since 2014, I spent more than 4500 hours on it and even though my matchmaking rating oscilates around 2k (means "rather bad"), I regret nothing.
 
 ### Contact
